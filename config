@@ -10,7 +10,7 @@
 # SETUP INTENDED TO WORK WITH LINUX MINT -- PORTED FROM ARCHLINUX  - there maybe residual code from there#
 
 #Dual screen setting
-exec $HOME/.i3/scripts/dualscreen_autoset.sh
+#exec $HOME/.i3/scripts/dualscreen_autoset.sh
 
 #if you want transparency on non-focused windows - but i prefer to see all windows clearly on a dual-monitor
 #exec_always compton --config ~/.i3/compton.conf
@@ -31,11 +31,11 @@ exec unclutter
 # delete or uncomment the following lines if you do not have it or do not
 # want it
 
-for_window [class="^.*"] border pixel 0
-gaps inner 15 
-gaps outer 2
-smart_gaps on
-smart_borders on
+#for_window [class="^.*"] border pixel 0
+#gaps inner 15 
+#gaps outer 2
+#smart_gaps on
+#smart_borders on
 
 
 ###########################################################################

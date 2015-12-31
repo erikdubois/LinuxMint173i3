@@ -31,7 +31,9 @@ Then
 
 This folder is my content of the .i3 directory.
 
-You can copy/paste all of this in the hidden folder, do a file by file copy to your liking or only copy/paste a few lines. But everything is linked together. Some items will not work if you skip ahead.
+You can copy/paste all of this in the hidden folder of .i3.
+
+You can make a hidden folder in your home folder, if you do not yet have one.
 
 # beware the hidden files !! 
 
