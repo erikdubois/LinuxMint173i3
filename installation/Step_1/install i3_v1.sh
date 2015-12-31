@@ -42,7 +42,7 @@
 
 
 
-# Made to be installed on a Linux Mint 17.1 (cinnamon in my example) 
+# Made to be installed on a Linux Mint 17.3 (cinnamon in my example) 
 
 
 
@@ -53,8 +53,9 @@
 
 #Core stuff i3
 sudo apt-get install i3 i3lock i3status i3-wm 
-sudo apt-get install dmenu
-# you will install suckless-tools instead 
+# sudo apt-get install dmenu
+# you will install suckless-tools instead
+sudo apt-get install suckless-tools 
 
 
 

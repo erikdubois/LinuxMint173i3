@@ -1,18 +1,16 @@
-# Minty i3 improved tiling windows manager
-Installing i3 wm on Linux Mint 17.1 cinnamon
+# Installing i3 wm on Linux Mint 17.3 cinnamon
 
-We start from an up-to-date Linux Mint 17.1 cinnamon as described on 
-http://erikdubois.be/category/linux-mint
-
+We start from an up-to-date Linux Mint 17.3 cinnamon as described on 
+http://erikdubois.be
 
 
-<a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/final_linuxmint171.png">
-<img style="max-width:100%;" data-canonical-src="http://erikdubois.be/wp-content/uploads/2015/05/final_linuxmint171.png" alt="alt tag" src="http://erikdubois.be/wp-content/uploads/2015/05/final_linuxmint171.png">
-</a>
+![Screenshots](http://i.imgur.com/l0Ecx5O.png)
+
+
 
 #Installation procedure
 
-First install Linux Mint 17.1 like you always would.
+First install Linux Mint 17.3 like you always would.
 
 Then update.
 
@@ -29,7 +27,7 @@ Do get the code from github. Install git first
 
 Then
 
-	git clone https://github.com/erikdubois/mintyi3wm.git
+	git clone https://github.com/erikdubois/i3-on-Linux-Mint-17.3.git
 
 This folder is my content of the .i3 directory.
 
