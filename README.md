@@ -6,6 +6,7 @@ http://erikdubois.be
 
 ![Screenshots](http://i.imgur.com/l0Ecx5O.png)
 
+# BETA VERSION - Needs to be checked and simplified!!
 
 
 #Installation procedure
