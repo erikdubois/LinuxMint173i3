@@ -1,0 +1,9 @@
+type command, sudo nano /etc/default/grub
+
+change the GRUB_TIMEOUT value to 15 or 20 as required. (value in second) or Setting timeout to -1 will make GRUB wait indefinitely until you manually select an entry and hit enter, It should look like
+
+GRUB_TIMEOUT=10
+
+save it. Close gedit. Now open a terminal and run
+
+sudo update-grub
