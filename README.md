@@ -33,6 +33,8 @@ This folder is my content of the .i3 directory.
 
 You can copy/paste all of this in the hidden folder, do a file by file copy to your liking or only copy/paste a few lines. But everything is linked together. Some items will not work if you skip ahead.
 
+# beware the hidden files !! 
+
 Then you follow the steps in the installation folder. Step-1, Step-2 etc Step x is the dangerous one. You decide if you want to do that.
 
 Some of these steps are optional. It is ofcourse my personal setup, made to suite me and to be run on a dual screen of 1680x1050 pixels.
