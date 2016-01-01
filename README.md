@@ -140,7 +140,7 @@ use lxappearance and qtconfig-qt4 to change icons, themes etc  ...
 Restart programs to see the changes.
 
 
-# making sure variety works 
+# Making sure variety works 
 
 We have to change some of the settings in the files. 
 
@@ -167,12 +167,19 @@ I have positioned some programs on some specific desktops.
 
 Assign section
 assign [class="Firefox"]          → 1
+
 assign [class="sublime-text"]     → 2
+
 assign [class="sublime_text"]     → 2
+
 assign [class="Sublime_text"]     → 2
+
 assign [class="Thunar"]           → 8
+
 assign [class="Nemo"]             → 8
+
 assign [class="Geary"]            → 9
+
 assign [class="Spotify"]          → 10
 
 
@@ -182,11 +189,17 @@ Mod4 + SHIFT + R = reset or rerun i3 if you change some code in the config file
 # Start up programs with ALT + CTRL + ...
 mod1 = ALT
 bindsym control+mod1+f exec firefox 
+
 bindsym control+mod1+g exec geary
+
 bindsym control+mod1+s exec spotify
+
 bindsym control+mod1+t exec subl
+
 #bindsym control+mod1+b exec thunar
+
 bindsym control+mod1+b exec nemo --no-desktop
+
 bindsym control+mod1+c exec catfish
 
 
