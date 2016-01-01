@@ -242,6 +242,10 @@ Without gaps
 
 With gaps
 
+![Screenshots](http://i.imgur.com/jTZGcrm.jpg)
+
+
+
 <a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/mintyi3withgaps.png">
 <img style="max-width:100%;" data-canonical-src="http://erikdubois.be/wp-content/uploads/2015/05/mintyi3withgaps.png" alt="alt tag" src="http://erikdubois.be/wp-content/uploads/2015/05/mintyi3withgaps.png">
 </a>
