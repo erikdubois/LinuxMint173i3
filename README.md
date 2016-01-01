@@ -6,7 +6,6 @@ http://erikdubois.be
 
 ![Screenshots](http://i.imgur.com/l0Ecx5O.png)
 
-# BETA VERSION - Needs to be checked and simplified!!
 
 
 #Installation procedure
@@ -33,17 +32,17 @@ Then
 This folder your are downloading is my content of the hidden .i3 directory, where all files will reside.
 
 
-# step 0
+# Step 0
 
 
 You can copy/paste all of this in the hidden folder of .i3.
 
 You can make a hidden folder in your home folder, if you do not yet have one.
 
-# beware the hidden files !! Copy/paste all files (CTRL + H)
+<b>beware the hidden files !! Copy/paste all files (CTRL + H)</b>
 
 
-# step 1
+# Step 1
 
 
 Go inside the folder installation/Step_1
@@ -131,6 +130,15 @@ gsettings set org.nemo.desktop show-desktop-icons false
 
 use lxappearance and qtconfig-qt4 to change icons, themes etc  ...
 Restart programs to see the changes.
+
+
+# making sure variety works 
+
+We have to change some of the settings in the files. 
+
+# Nitrogen
+
+You can set your wallpaper with nitrogen also if variety does not prove to work.
 
 
 # Shortcuts to remember
