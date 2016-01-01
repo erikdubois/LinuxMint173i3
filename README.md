@@ -234,19 +234,10 @@ Go inside the folder installation/Step_x/i3 with gaps
 
 # E N D   R E S U L T
 
-Without gaps
 
-<a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/i3_on_linux_mint_17_1.png">
-<img style="max-width:100%;" data-canonical-src="http://erikdubois.be/wp-content/uploads/2015/05/i3_on_linux_mint_17_1.png" alt="alt tag" src="http://erikdubois.be/wp-content/uploads/2015/05/i3_on_linux_mint_17_1.png">
-</a>
-
-With gaps
+i3 with gaps
 
 ![Screenshots](http://i.imgur.com/jTZGcrm.jpg)
 
 
-
-<a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/mintyi3withgaps.png">
-<img style="max-width:100%;" data-canonical-src="http://erikdubois.be/wp-content/uploads/2015/05/mintyi3withgaps.png" alt="alt tag" src="http://erikdubois.be/wp-content/uploads/2015/05/mintyi3withgaps.png">
-</a>
 
