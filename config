@@ -31,11 +31,11 @@ exec unclutter
 # delete or uncomment the following lines if you do not have it or do not
 # want it
 
-#for_window [class="^.*"] border pixel 0
-#gaps inner 15 
-#gaps outer 2
-#smart_gaps on
-#smart_borders on
+for_window [class="^.*"] border pixel 0
+gaps inner 15 
+gaps outer 2
+smart_gaps on
+smart_borders on
 
 
 ###########################################################################
@@ -213,8 +213,8 @@ bindsym $mod+agrave workspace 10
 # setting variables for later use
 # use xrandr to know the names of your monitors
 
-set $firstMonitor DVI-I-0
-set $secondMonitor VGA-0
+#set $firstMonitor DVI-I-2
+#set $secondMonitor VGA-0
 
 #set $firstMonitor DVI-I-2
 #set $secondMonitor DVI-I-3
@@ -318,7 +318,7 @@ for_window [class="Hexchat"] floating disable
 exec --no-startup-id nm-applet
 exec dropbox start
 exec /opt/copy-client/CopyAgent
-exec /opt/extras.ubuntu.com/variety/bin/variety
+exec variety
 exec mintupdate-launcher
 exec cinnamon-sound-applet
 
@@ -358,6 +358,7 @@ bindsym control+mod1+t exec subl
 #bindsym control+mod1+b exec thunar
 bindsym control+mod1+b exec nemo --no-desktop
 bindsym control+mod1+c exec catfish
+bindsym control+mod1+m exec gnome-system-monitor
 
 set $mode_system System (l) lock, (e) logout, (s) suspend, (h) hibernate, (r) reboot, (Shift+s) shutdown
 mode "$mode_system" {
