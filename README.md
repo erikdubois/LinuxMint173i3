@@ -102,23 +102,31 @@ Or you will see some errors.
 
 # Step 2
 
-Installation of an alternative to the i3 status bar
+<b>Installation of an alternative to the i3 status bar</b>
 
 Go inside the folder installation/Step_2/i3blocks
 Start compile-source-code-for-i3blocks.sh in a terminal
+
+<b>Awesome Font</b>
 
 Go inside the folder installation/Step_2/font
 Install also the font since one of the "letters" is used to make the bottom bar nicer.
 Double-click the font and install in linux mint.
 
+<b>Making menu bigger and as such better readable</b>
+
 Go inside the folder installation/Step_2/dmenu larger font
 Read the document and do these steps in a terminal.
+
+<b>Installing a less cluttered menu</b>
 
 Go inside the folder installation/Step_2/j4_dmenu_desktop
 Run j4-dmenu-desktop_install.sh
 This will provide with a better menu selection.
 Activated with WIN + SHIFT + D  - called Linux Mint Desktop
 (Normal menu is WIN + D - called  Linux Mint All Programs)
+
+<b>Fix for Nemo or file manager of Linux Mint</b>
 
 If working with NEMO as file manager you will need to copy paste this line in a terminal or you will open
 a desktop together with nemo.
