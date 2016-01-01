@@ -196,8 +196,6 @@ bindsym control+mod1+s exec spotify
 
 bindsym control+mod1+t exec subl
 
-#bindsym control+mod1+b exec thunar
-
 bindsym control+mod1+b exec nemo --no-desktop
 
 bindsym control+mod1+c exec catfish
