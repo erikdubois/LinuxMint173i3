@@ -188,6 +188,7 @@ Mod4 + SHIFT + R = reset or rerun i3 if you change some code in the config file
 
 # Start up programs with ALT + CTRL + ...
 mod1 = ALT
+
 bindsym control+mod1+f exec firefox 
 
 bindsym control+mod1+g exec geary
