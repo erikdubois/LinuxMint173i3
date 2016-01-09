@@ -216,8 +216,8 @@ bindsym $mod+agrave workspace 10
 #set $firstMonitor DVI-I-2
 #set $secondMonitor VGA-0
 
-#set $firstMonitor DVI-I-1
-#set $secondMonitor DVI-I-2
+set $firstMonitor DVI-I-1
+set $secondMonitor DVI-I-2
 
 #set $firstMonitor DVI-I-2
 #set $secondMonitor DVI-I-3

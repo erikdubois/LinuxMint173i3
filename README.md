@@ -255,6 +255,25 @@ https://github.com/Airblader/i3/tree/gaps-next
 
 Go inside the folder installation/Step_x/i3 with gaps
 
+# Working with two monitors
+
+The program xrandr will show you how your monitors are named.
+In the config file you will need to change the code.
+
+Uncomment the ones you need
+
+#set $firstMonitor DVI-I-2
+#set $secondMonitor VGA-0
+
+set $firstMonitor DVI-I-1
+set $secondMonitor DVI-I-2
+
+#set $firstMonitor DVI-I-2
+#set $secondMonitor DVI-I-3
+
+#set $firstMonitor DVI-0
+#set $secondMonitor DVI-1
+
 
 # E N D   R E S U L T
 
