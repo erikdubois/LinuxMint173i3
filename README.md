@@ -264,6 +264,7 @@ Uncomment the ones you need
 
 
 set $firstMonitor DVI-I-1
+
 set $secondMonitor DVI-I-2
 
 
