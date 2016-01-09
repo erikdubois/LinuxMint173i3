@@ -164,7 +164,8 @@ Change the code
    			feh --bg-fill "$WP" 2&gt; /dev/null
 	fi
 
-
+Check out the youtube movie if need be at 
+http://erikdubois.be/how-to-make-variety-work-in-i3-windows-manager-linux-mint-17-3/
 
 # Nitrogen
 
