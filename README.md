@@ -267,6 +267,9 @@ set $firstMonitor DVI-I-1
 
 set $secondMonitor DVI-I-2
 
+Use this code in your config or terminal (only once) to tell the system which monitor goes on the left.
+
+xrandr --output DVI-I-2 --right-of DVI-I-1 --auto
 
 
 
