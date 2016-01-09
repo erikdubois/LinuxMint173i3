@@ -214,6 +214,7 @@ bindsym $mod+agrave workspace 10
 # use xrandr to know the names of your monitors
 # use this line to tell which monitor is on the right
 # xrandr --output DVI-I-2 --right-of DVI-I-1 --auto
+# there is a script at the beginning that covers the dual monitors
 
 
 #set $firstMonitor DVI-I-2
