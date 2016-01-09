@@ -144,6 +144,28 @@ Restart programs to see the changes.
 
 We have to change some of the settings in the files. 
 
+Go the file 
+
+~/.config/variety/scripts/set_wallpaper
+
+Change the code 
+
+	# i3-wm/Feh. Use Feh only for i3, as it may cause problems with Nautilus, (see bug https://bugs.launchpad.net/variety/+bug/1047083)
+	if [ "$XDG_CURRENT_DESKTOP" == "i3" ]; then
+   			feh --bg-fill "$WP" 2&gt; /dev/null
+	fi
+
+	into
+
+	
+	
+	# i3-wm/Feh. Use Feh only for i3, as it may cause problems with Nautilus, (see bug https://bugs.launchpad.net/variety/+bug/1047083)
+	if [ "$XDG_SESSION_DESKTOP" == "i3" ]; then
+   			feh --bg-fill "$WP" 2&gt; /dev/null
+	fi
+
+
+
 # Nitrogen
 
 You can set your wallpaper with nitrogen also if variety does not prove to work.
