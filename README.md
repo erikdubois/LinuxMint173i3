@@ -288,3 +288,6 @@ i3 with gaps
 
 
 ![Screenshots](http://i.imgur.com/QhRDssB.jpg)
+
+
+![Screenshots](http://i.imgur.com/CgorIqo.jpg)
